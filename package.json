@@ -1,0 +1,20 @@
+{
+  "name": "javasriptbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "convert-to-plain": "^1.0.1",
+    "cyrillic-to-translit-js": "^3.2.1",
+    "http-build-query": "^0.7.0",
+    "node-robokassa": "^0.0.0",
+    "node-telegram-bot-api": "0.58.0"
+  }
+}
